@@ -6,6 +6,8 @@ if numero > 0 :
 else:
     print("es negativo")
     
+#camilo
+    
 numero = int(input("escriba si el numero es par:"))
 if numero %2 == 0 :
     print("numero es  par")
